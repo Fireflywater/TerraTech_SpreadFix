@@ -1,0 +1,9 @@
+{
+  "Id": "Fireflywater.SpreadFix",
+  "DisplayName": "Spread Fix",
+  "Author": "Fireflywater",
+  "Version": "0.0.0",
+  "Enable": true,
+  "AssemblyName": "FFW_TT_SpreadFix.dll",
+  "EntryMethod": "FFW_TT_SpreadFix.QPatch.Main"
+}

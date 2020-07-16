@@ -1,0 +1,6 @@
+C:\Users\Firefly\Desktop\tt\FFW_TT_SpreadFix\FFW_TT_SpreadFix\bin\Debug\FFW_TT_SpreadFix.dll
+C:\Users\Firefly\Desktop\tt\FFW_TT_SpreadFix\FFW_TT_SpreadFix\bin\Debug\FFW_TT_SpreadFix.pdb
+C:\Users\Firefly\Desktop\tt\FFW_TT_SpreadFix\FFW_TT_SpreadFix\obj\Debug\FFW_TT_SpreadFix.csprojAssemblyReference.cache
+C:\Users\Firefly\Desktop\tt\FFW_TT_SpreadFix\FFW_TT_SpreadFix\obj\Debug\FFW_TT_SpreadFix.csproj.CoreCompileInputs.cache
+C:\Users\Firefly\Desktop\tt\FFW_TT_SpreadFix\FFW_TT_SpreadFix\obj\Debug\FFW_TT_SpreadFix.dll
+C:\Users\Firefly\Desktop\tt\FFW_TT_SpreadFix\FFW_TT_SpreadFix\obj\Debug\FFW_TT_SpreadFix.pdb
