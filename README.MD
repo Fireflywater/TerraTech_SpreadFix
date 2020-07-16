@@ -2,6 +2,8 @@
 
 You ever notice how your shots are perfectly accurate when aiming directly north, south, east, or west? Not anymore, fool!
 
+Working value: `*0.5f`
+
 ### RELEASE INSTALLATION:
 
 * Install TerraTech Mod Manager.

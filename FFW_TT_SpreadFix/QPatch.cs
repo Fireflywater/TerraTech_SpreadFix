@@ -3,7 +3,7 @@ using System.Reflection;
 using Harmony;
 using UnityEngine;
 
-namespace FFW_TT_SpreadMod
+namespace FFW_TT_SpreadFix
 {
     internal class QPatch
     {

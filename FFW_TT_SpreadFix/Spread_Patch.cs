@@ -8,7 +8,7 @@ using System.Reflection;
 using UnityEngine;
 using System.Runtime.CompilerServices;
 
-namespace FFW_TT_SpreadMod
+namespace FFW_TT_SpreadFix
 {
     public static class WrappedDataHolder
     {
